@@ -1,0 +1,16 @@
+git init : khởi tạo
+git branch : tạo nhánh.
+git checkout:  kiểm tra nhánh hiện tại
+git add . : add tất cả các file
+git add ( + tên file or thư mục)
+git push -set--upstream origin (+ Tên nhánh)
+git --help : help
+git help -a:(trợ giúp add)
+git remote add origin (+ Tên máy chủ).
+git commit -m "Ghi chú"
+git status -s : thay đổi 
+?? demo
+?? demo.s
+git clone (+ tên server clone về)
+mkdir githup (tạo thư mục githup)
+cd githup (vào thư mục githup)
